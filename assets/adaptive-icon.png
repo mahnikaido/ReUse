@@ -1,0 +1,5 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="512" cy="400" r="150" fill="#4CAF50"/>
+  <path d="M400 550 L500 650 L650 500" stroke="#4CAF50" stroke-width="40" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="512" y="750" text-anchor="middle" fill="#4CAF50" font-family="Arial, sans-serif" font-size="80" font-weight="bold">R</text>
+</svg>
